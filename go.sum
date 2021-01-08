@@ -1,0 +1,14 @@
+github.com/LindsayBradford/go-dbf v0.0.0-20181206104747-5f7a16f88561 h1:/AzH+jbmc79qCPcmJA9LkN7xoJRA17+wxof/49I/ImY=
+github.com/LindsayBradford/go-dbf v0.0.0-20181206104747-5f7a16f88561/go.mod h1:qdu82Ln+nICW/paTv7Y/F3AEoikB+HbF/yhzsWivjH8=
+github.com/SebastiaanKlippert/go-foxpro-dbf v1.1.2 h1:b9W6VEQCYdWKfTdUSn3lLp57jpkVI6te8VoCCH82doE=
+github.com/SebastiaanKlippert/go-foxpro-dbf v1.1.2/go.mod h1:0sBpT8TzZ67I85N2O/cL4kDD0Csu49eu1ZUhSkj9/20=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394 h1:OYA+5W64v3OgClL+IrOD63t4i/RW7RqrAVl9LTZ9UqQ=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394/go.mod h1:Q8n74mJTIgjX4RBBcHnJ05h//6/k6foqmgE45jTQtxg=
+github.com/carlosjhr64/jd v0.0.0-20161112153956-c2c3ee56c3e2 h1:cggp+UDAm3KvMfILi7YDhaV6EkomIZ0iOIEnSesoqo0=
+github.com/carlosjhr64/jd v0.0.0-20161112153956-c2c3ee56c3e2/go.mod h1:V9UGSxOuxbmll8bGcO5dKeI0zEV4zvVhMk2UthuVtg8=
+github.com/firstmustok/go-dbf v0.0.0-20150829025217-5389e5be7de5 h1:57B9fEz3RVHcYQbyGAPM+B9n0MTfxY2S5AMadRtoIUI=
+github.com/firstmustok/go-dbf v0.0.0-20150829025217-5389e5be7de5/go.mod h1:8xTuZp37CqdK2ixVWL4OUdbhg4b2BioWYwP+Qrvh9Y4=
+github.com/will-evil/go-dbf v1.1.1 h1:Tt4RC86883hT6q9c/7UV/Sxo8onvzzh2Zu1LKQ46WFI=
+golang.org/x/text v0.3.2 h1:tW2bmiBqwgJj/UpqtC8EpXEZVYOwU0yG4iWbprSVAcs=
+golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
